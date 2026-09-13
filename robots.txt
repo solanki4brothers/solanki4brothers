@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solanki4brothers.github.io/solanki4brothers/sitemap.xml
